@@ -1,2 +1,2 @@
 # python-notebooks
-Personal notebooks for created for experiments, conferences or seminars
+Personal notebooks created for experiments, conferences or seminars
